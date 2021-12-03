@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+main {
+  width: 100%;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  font-family: "Roboto", sans-serif;
+}
+
+main .info-empleado {
+  width: 95%;
+  margin: auto;
+}
+
+main .info-empleado h1 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+main .info-empleado article {
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+  border: 5px dotted #0056af;
+}
+
+main .info-empleado article h2 {
+  margin-bottom: 10px;
+}
+
+main .info-empleado article .tajeta-box {
+  width: 90%;
+  height: 250px;
+  margin: auto;
+  margin-top: 20px;
+  position: relative;
+  background-color: #0099be;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: #fff;
+}
+
+main .info-empleado article .tajeta-box .noTarjeta {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+main .info-empleado article .tajeta-box .endTarjeta {
+  -ms-flex-item-align: start;
+      align-self: flex-start;
+}
+
+main .info-empleado article .tajeta-box span {
+  color: #fff;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 2rem;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+@media (min-width: 751px) {
+  main .info-empleado article {
+    width: 60%;
+    margin: auto;
+  }
+}
+/*# sourceMappingURL=infoEmpleado.css.map */

@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,300&display=swap");
+$firsColor: #ff9e8b;
+$secondColor: #ffc374;
+$thirdColor: #0056af;
+$fourthColor: #0099be;
+$fiveColor: #00e0d8;
+$bodyColor: #d1d1d1;
+$font: "Roboto", sans-serif;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+main {
+    width: 100%;
+    user-select: none;
+    font-family: $font;
+    .info-empleado {
+        width: 95%;
+        //height: 200px;
+        margin: auto;
+        //background-color: $fourthColor;
+        h1 {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        article {
+            width: 100%;
+            text-align: center;
+            //background-color: gold;
+            padding: 20px;
+            border: 5px dotted $thirdColor;
+            h2 {
+                margin-bottom: 10px;
+            }
+            .tajeta-box {
+                width: 90%;
+                height: 250px;
+                margin: auto;
+                margin-top: 20px;
+                position: relative;
+                background-color: $fourthColor;
+                display: flex;
+                padding: 10px;
+                flex-direction: column;
+                justify-content: center;
+                color: #fff;
+                .noTarjeta {
+                    align-self: center;
+                    font-size: 2rem;
+                    font-weight: 700;
+                    margin-bottom: 20px;
+                }
+                .endTarjeta {
+                    align-self: flex-start;
+                    
+                }
+                span {
+                    color: #fff;
+                    position: absolute;
+                    top: 0;
+                    right: 0;
+                    font-size: 2rem;
+                    margin-right: 10px;
+                    margin-top: 10px;
+                }
+            }
+
+            @media (min-width: 751px) {
+                width: 60%;
+                margin: auto;
+            }
+        }
+    }
+
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Head import -->
+    <%- include('./partials/head.ejs'); %>
+    <title>Lista de Empleados</title>
+    <link rel="stylesheet" href="/css/listaEmpleados.css">
+</head>
+<body>
+    <!-- Header import -->
+    <%- include('./partials/header.ejs'); %>
+    <main>
+        <!-- Lista de empleados -->
+        <section class="lista-empleados">
+            <h2>Lista de Clientes</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <td>Nombre</td>
+                        <td>Apellidos</td>
+                        <td>Matricula</td>
+                        <td>Ver Datos</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <% for(let i = 0; i < listaEmpleados.length; i++) { %> 
+                        <tr>
+                            <td data-label="Nombre"><%= listaEmpleados[i].nombres %></td>
+                            <td data-label="Apellidos"><%= listaEmpleados[i].primer_apellido %> <%= listaEmpleados[i].segundo_apellido %></td>
+                            <td data-label="Matricula"><%= listaEmpleados[i].matricula %></td>
+                            <td data-label="Ver Información"><a href="/infoEmpleado?id=<%= listaEmpleados[i].id %>" class="icon icon-eye"></a></td>
+                        </tr>
+                    <% } %> 
+                </tbody>
+            </table>
+            
+        </section>
+        
+    </main>
+    <!-- Header import -->
+    <%- include('./partials/footer.ejs'); %>
+</body>
+</html>

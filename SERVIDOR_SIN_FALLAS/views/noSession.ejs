@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Head import -->
+    <%- include('./partials/head.ejs'); %>
+    <title>Login</title>
+    <link rel="stylesheet" href="/css/formulario.css">
+    <link rel="stylesheet" href="/css/error.css">
+</head>
+<body>
+    <!-- Header import -->
+    <%- include('./partials/header.ejs'); %>
+    <main>
+        <section class="error-404">
+            <article class="error-404-content">
+                <h1 id="title-404">404</h1>
+                <p>Upps, ¡No hay nada aqui!</p>
+                <p>Favor de Iniciar Sesión</p>
+                <a href="/login" id="back-home">Ir al login</a>
+            </article>
+
+            <div class="image">
+                <img src="/img/d68c6d04-5168-4906-9023-8ad5691f3deb.gif" alt="error_404" id="image-error">
+            </div>
+            
+        </section>
+    </main>
+    <!-- Header import -->
+    <%- include('./partials/footer.ejs'); %>
+</body>
+</html>

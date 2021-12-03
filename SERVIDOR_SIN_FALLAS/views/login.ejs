@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Head import -->
+    <%- include('./partials/head.ejs'); %>
+    <title>Login</title>
+    <link rel="stylesheet" href="/css/formulario.css">
+</head>
+<body>
+    <!-- Header import -->
+    <%- include('./partials/header.ejs'); %>
+    <main>
+        <!-- Lista de empleados -->
+        <div class="formulario-eliminar-cancelar">
+            <h2>Login</h2>
+            <form method="POST" action="/login">
+                <label for="observaciones">Usuario</label>
+                <input type="text" name="email" id="email">
+                <label for="password">Contraseña</label>
+                <input type="password" name="password" id="password">
+                <div class="buttons">
+                    <label for="btn-send" class="btn-send">Login</label>
+                    <button type="submit" id="btn-send"></button>
+                </div>
+            </form>
+        </div>
+
+        <% if(error) { %> 
+            <p class="error-sesion">Error de sesion, favor de verificar Usuario y Contraseña</p>
+        <% } %> 
+    </main>
+    <!-- Header import -->
+    <%- include('./partials/footer.ejs'); %>
+</body>
+</html>

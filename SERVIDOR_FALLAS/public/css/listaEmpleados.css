@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+main {
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+main .lista-empleados {
+  width: 95%;
+  margin: auto;
+}
+
+main .lista-empleados h2 {
+  text-align: center;
+  color: #0056af;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+main .lista-empleados table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+main .lista-empleados table thead {
+  background-color: #ff9e8b;
+  border: 2px solid #ff9e8b;
+  color: #fff;
+}
+
+main .lista-empleados table thead tr td {
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-align: center;
+  padding: 10px;
+  font-family: "Roboto", sans-serif;
+}
+
+main .lista-empleados table tbody tr td {
+  font-family: "Roboto", sans-serif;
+  padding: 10px;
+  text-align: center;
+}
+
+main .lista-empleados table tbody tr td a {
+  color: #0099be;
+  font-size: 1.2rem;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+main .lista-empleados table tbody tr td[data-label="Estatus"] {
+  font-weight: 700;
+}
+
+main .lista-empleados table tbody tr:hover {
+  background: #d1d1d1;
+}
+
+main .lista-empleados table tbody tr .finalizado-cancelado {
+  color: red;
+}
+
+@media (max-width: 769px) {
+  main .lista-empleados table thead {
+    display: none;
+  }
+  main .lista-empleados table tbody tr,
+  main .lista-empleados table tbody td {
+    display: block;
+    width: 100%;
+  }
+  main .lista-empleados table tbody tr {
+    margin-bottom: 15px;
+    overflow: hidden;
+  }
+  main .lista-empleados table tbody tr td {
+    text-align: right;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin-bottom: 10px;
+  }
+  main .lista-empleados table tbody tr td[data-label="Estatus"] {
+    font-weight: 700;
+  }
+  main .lista-empleados table tbody tr td::before {
+    content: attr(data-label);
+    margin-right: 50px;
+    font-weight: 700;
+  }
+  main .lista-empleados table tbody tr:hover {
+    background: #fff;
+  }
+}
+/*# sourceMappingURL=listaEmpleados.css.map */

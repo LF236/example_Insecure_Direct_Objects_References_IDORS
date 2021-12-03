@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Head import -->
+    <%- include('./partials/head.ejs'); %>
+    <title>Información del Empleado</title>
+    <link rel="stylesheet" href="/css/infoEmpleado.css">
+</head>
+<body>
+    <!-- Header import -->
+    <%- include('./partials/header.ejs'); %>
+    <main>
+        <section class="info-empleado">
+            <h1>Información del empleado</h1>
+            <article>
+                <h2><%= infoEmpleado.nombres %> <%= infoEmpleado.primer_apellido %> <%= infoEmpleado.segundo_apellido %></h2>
+                <p><%= empleadoDatos.email %></p>
+
+                <div class="tajeta-box">
+                    <span class="icon icon-cc-visa"></span>
+                    <p class="noTarjeta"><%= empleadoDatos.tarjetaCredito %></p>
+                    <p class="endTarjeta"><%= empleadoDatos.fechaFinTarjetar %></p>
+                </div>
+            </article>
+            
+        </section>
+    </main>
+
+
+    <!-- Header import -->
+    <%- include('./partials/footer.ejs'); %>
+</body>
+</html>

@@ -1,0 +1,2742 @@
+[
+    {
+        "id": 1,
+        "matricula": 111,
+        "nombres": "LUIS FERNANDO",
+        "primer_apellido": "RODRIGUEZ",
+        "segundo_apellido": "HERNANDEZ",
+        "created_at": "2021-09-28T20:09:54.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 2,
+        "matricula": 222,
+        "nombres": "OMAR SAHIB",
+        "primer_apellido": "HERRERA",
+        "segundo_apellido": "MARTINEZ",
+        "created_at": "2021-09-22T20:09:54.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 3,
+        "matricula": 333,
+        "nombres": "JOSUE",
+        "primer_apellido": "SESEÑA",
+        "segundo_apellido": "RUIZ",
+        "created_at": "2021-09-23T20:09:54.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 4,
+        "matricula": 444,
+        "nombres": "ADBIEL",
+        "primer_apellido": "TEPO",
+        "segundo_apellido": "MENDOZA",
+        "created_at": "2021-09-24T20:05:54.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 5,
+        "matricula": 555,
+        "nombres": "DIANA LAURA",
+        "primer_apellido": "AGUIRRE",
+        "segundo_apellido": "CAPISTRAN",
+        "created_at": "2021-09-25T20:05:54.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 6,
+        "matricula": 666,
+        "nombres": "ABRAHAM AZAHEL",
+        "primer_apellido": "RIOS",
+        "segundo_apellido": "CASTILLO",
+        "created_at": "2021-09-26T20:05:54.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 7,
+        "matricula": 1001,
+        "nombres": "ABEL",
+        "primer_apellido": "VELA",
+        "segundo_apellido": "CARRILLO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 8,
+        "matricula": 888,
+        "nombres": "JESSICA YAMILET",
+        "primer_apellido": "VAZQUEZ",
+        "segundo_apellido": "CASTILLO",
+        "created_at": "2021-09-27T20:05:54.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 9,
+        "matricula": 999,
+        "nombres": "ARTURO",
+        "primer_apellido": "ARENAS",
+        "segundo_apellido": "TRINIDAD",
+        "created_at": "2021-09-28T20:05:54.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 10,
+        "matricula": 100,
+        "nombres": "PABLO",
+        "primer_apellido": "VAZQUEZ",
+        "segundo_apellido": "REYES",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 11,
+        "matricula": 868,
+        "nombres": "GONZALO",
+        "primer_apellido": "DOMINGUEZ",
+        "segundo_apellido": "JUNCO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 12,
+        "matricula": 912,
+        "nombres": "AMPARO MARGARITA",
+        "primer_apellido": "MORA",
+        "segundo_apellido": "VILLEGAS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 13,
+        "matricula": 890,
+        "nombres": "CINTHIA LIZETH",
+        "primer_apellido": "PANDURA",
+        "segundo_apellido": "MIRANDA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 14,
+        "matricula": 710,
+        "nombres": "ANA IRIS",
+        "primer_apellido": "REYES",
+        "segundo_apellido": "LOPEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 15,
+        "matricula": 679,
+        "nombres": "LIZBETH",
+        "primer_apellido": "TADEO",
+        "segundo_apellido": "VALLECILLO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 16,
+        "matricula": 454,
+        "nombres": "LEIDY YURANIE",
+        "primer_apellido": "DIAZ",
+        "segundo_apellido": "OLMOS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 17,
+        "matricula": 690,
+        "nombres": "ERNESTO",
+        "primer_apellido": "ANTONIO",
+        "segundo_apellido": "ANTONIO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 18,
+        "matricula": 488,
+        "nombres": "FELIPE",
+        "primer_apellido": "ARCINIEGA",
+        "segundo_apellido": "DIOS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 19,
+        "matricula": 546,
+        "nombres": "MONICA IVETTE",
+        "primer_apellido": "CABRERA",
+        "segundo_apellido": "ESCALERA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 20,
+        "matricula": 204,
+        "nombres": "LORENA",
+        "primer_apellido": "CASTILLO",
+        "segundo_apellido": "MONDRAGON",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 21,
+        "matricula": 360,
+        "nombres": "LILIANA",
+        "primer_apellido": "CASTRO",
+        "segundo_apellido": "GUTIERREZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 22,
+        "matricula": 583,
+        "nombres": "YESSICA AZUCENA",
+        "primer_apellido": "CATANA",
+        "segundo_apellido": "DOMINGUEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 23,
+        "matricula": 751,
+        "nombres": "MARIA ANTONIETA",
+        "primer_apellido": "CONTRERAS",
+        "segundo_apellido": "CARRILLO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 24,
+        "matricula": 852,
+        "nombres": "CARINA IYALY",
+        "primer_apellido": "CONTRERAS",
+        "segundo_apellido": "RIVAS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 25,
+        "matricula": 305,
+        "nombres": "ILSE ZULEMA",
+        "primer_apellido": "COVARRUBIAS",
+        "segundo_apellido": "GOMEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 26,
+        "matricula": 866,
+        "nombres": "XOCHITL GENESIS",
+        "primer_apellido": "CRUZ",
+        "segundo_apellido": "HIPOLITO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 27,
+        "matricula": 775,
+        "nombres": "YARAZETH",
+        "primer_apellido": "CUELLAR",
+        "segundo_apellido": "CRUZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 28,
+        "matricula": 430,
+        "nombres": "LEIDY YURANIE",
+        "primer_apellido": "DIAZ",
+        "segundo_apellido": "OLMOS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 29,
+        "matricula": 689,
+        "nombres": "SAUL",
+        "primer_apellido": "DIAZ",
+        "segundo_apellido": "VILLALVAZO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 30,
+        "matricula": 338,
+        "nombres": "ULISES",
+        "primer_apellido": "DOMINGUEZ",
+        "segundo_apellido": "MURILLO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 31,
+        "matricula": 1289,
+        "nombres": "LUIS FERNANDO",
+        "primer_apellido": "ATENA",
+        "segundo_apellido": "RODRIGUEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 32,
+        "matricula": 514,
+        "nombres": "MARIELY",
+        "primer_apellido": "FABIAN",
+        "segundo_apellido": "PUCHETA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 33,
+        "matricula": 809,
+        "nombres": "ADRIANA",
+        "primer_apellido": "FERRAL",
+        "segundo_apellido": "FERNANDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 34,
+        "matricula": 260,
+        "nombres": "ANNETTE",
+        "primer_apellido": "FIGUEROA",
+        "segundo_apellido": "INFANZON",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 35,
+        "matricula": 8732,
+        "nombres": "ROSARIO",
+        "primer_apellido": "ROSAS",
+        "segundo_apellido": "RIOS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 36,
+        "matricula": 8733,
+        "nombres": "ROMA",
+        "primer_apellido": "LANDA",
+        "segundo_apellido": "VERDE",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 37,
+        "matricula": 949,
+        "nombres": "EDUARDO",
+        "primer_apellido": "GARCIA",
+        "segundo_apellido": "VAZQUEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 38,
+        "matricula": 676,
+        "nombres": "ALAN",
+        "primer_apellido": "GONZALEZ",
+        "segundo_apellido": "LIMON",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 39,
+        "matricula": 195,
+        "nombres": "VENUS ANAI",
+        "primer_apellido": "HERNANDEZ",
+        "segundo_apellido": "ALARCON",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 40,
+        "matricula": 781,
+        "nombres": "LUCIA",
+        "primer_apellido": "HERNANDEZ",
+        "segundo_apellido": "MORALES",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 41,
+        "matricula": 8734,
+        "nombres": "XIMENA",
+        "primer_apellido": "ROSA",
+        "segundo_apellido": "PEREZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 42,
+        "matricula": 412,
+        "nombres": "BERTHA ALICIA",
+        "primer_apellido": "JASSO",
+        "segundo_apellido": "HERNANDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 43,
+        "matricula": 926,
+        "nombres": "ADRIANA BETSABE",
+        "primer_apellido": "LASTRA",
+        "segundo_apellido": "GURRIA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 44,
+        "matricula": 642,
+        "nombres": "MIGUEL ANGEL",
+        "primer_apellido": "LOPEZ",
+        "segundo_apellido": "REYES",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 45,
+        "matricula": 638,
+        "nombres": "ALMA LINDA",
+        "primer_apellido": "LOPEZ",
+        "segundo_apellido": "GARCIA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 46,
+        "matricula": 792,
+        "nombres": "SAMARY",
+        "primer_apellido": "LÓPEZ",
+        "segundo_apellido": "RIVERA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 47,
+        "matricula": 551,
+        "nombres": "IRMA EUGENIA",
+        "primer_apellido": "LOPEZ",
+        "segundo_apellido": "SAMANO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 48,
+        "matricula": 902,
+        "nombres": "SOFIA",
+        "primer_apellido": "LOZANO",
+        "segundo_apellido": "LOPEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 49,
+        "matricula": 907,
+        "nombres": "MILDRED",
+        "primer_apellido": "LUCHO",
+        "segundo_apellido": "PEÑA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 50,
+        "matricula": 965,
+        "nombres": "ALEXIS",
+        "primer_apellido": "MALPICA",
+        "segundo_apellido": "VAZQUEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 51,
+        "matricula": 317,
+        "nombres": "ESAU FRANCISCO",
+        "primer_apellido": "MORALES",
+        "segundo_apellido": "RODRIGUEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 52,
+        "matricula": 198,
+        "nombres": "AMPARO MARGARITA",
+        "primer_apellido": "MORA",
+        "segundo_apellido": "VILLEGAS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 53,
+        "matricula": 603,
+        "nombres": "ISAAC",
+        "primer_apellido": "NAVARRETE",
+        "segundo_apellido": "MIRON",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 54,
+        "matricula": 566,
+        "nombres": "JORGE ALBERTO",
+        "primer_apellido": "NICOLAS",
+        "segundo_apellido": "OROZCO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 55,
+        "matricula": 669,
+        "nombres": "ROCIO",
+        "primer_apellido": "NIEVES",
+        "segundo_apellido": "HERNANDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 56,
+        "matricula": 601,
+        "nombres": "OSCAR RAFAEL",
+        "primer_apellido": "NOVELO",
+        "segundo_apellido": "RUIZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 57,
+        "matricula": 906,
+        "nombres": "MARINA YARELI",
+        "primer_apellido": "ORTIZ",
+        "segundo_apellido": "CEBALLOS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 58,
+        "matricula": 958,
+        "nombres": "JORGE LUIS",
+        "primer_apellido": "PACHECO",
+        "segundo_apellido": "DELGADO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 59,
+        "matricula": 999,
+        "nombres": "ARACELI",
+        "primer_apellido": "PALACIOS",
+        "segundo_apellido": "ESCOBEDO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 60,
+        "matricula": 668,
+        "nombres": "CINTHIA LIZETH",
+        "primer_apellido": "PANDURA",
+        "segundo_apellido": "MIRANDA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 61,
+        "matricula": 147,
+        "nombres": "REBECA",
+        "primer_apellido": "PASTELIN",
+        "segundo_apellido": "CORTES",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 62,
+        "matricula": 8735,
+        "nombres": "JOEL",
+        "primer_apellido": "ALARCON",
+        "segundo_apellido": "HUERTA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 63,
+        "matricula": 883,
+        "nombres": "JOSE ROBERTO",
+        "primer_apellido": "QUECHOL",
+        "segundo_apellido": "LOPEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 64,
+        "matricula": 579,
+        "nombres": "RAUL",
+        "primer_apellido": "RAMIREZ",
+        "segundo_apellido": "LARA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 65,
+        "matricula": 8736,
+        "nombres": "ROMEL",
+        "primer_apellido": "PACHECO",
+        "segundo_apellido": "RIOS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 66,
+        "matricula": 493,
+        "nombres": "ANA IRIS",
+        "primer_apellido": "REYES",
+        "segundo_apellido": "LOPEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 67,
+        "matricula": 433,
+        "nombres": "ARACELI",
+        "primer_apellido": "RIVERA",
+        "segundo_apellido": "GARCIA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 68,
+        "matricula": 8737,
+        "nombres": "RAUL",
+        "primer_apellido": "HERNANDEZ",
+        "segundo_apellido": "HUERTA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 69,
+        "matricula": 267,
+        "nombres": "MARYNEYBA",
+        "primer_apellido": "RIVERA",
+        "segundo_apellido": "OCHOA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 70,
+        "matricula": 880,
+        "nombres": "GABRIELA",
+        "primer_apellido": "RUIZ",
+        "segundo_apellido": "GUILLEN",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 71,
+        "matricula": 142,
+        "nombres": "JOSE ARMANDO",
+        "primer_apellido": "SALAMANCA",
+        "segundo_apellido": "PEREZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 72,
+        "matricula": 819,
+        "nombres": "CRISTIAN MICHEL",
+        "primer_apellido": "SALGADO",
+        "segundo_apellido": "PEREZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 73,
+        "matricula": 898,
+        "nombres": "LAURA",
+        "primer_apellido": "SANCHEZ",
+        "segundo_apellido": "AGUSTIN",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 74,
+        "matricula": 402,
+        "nombres": "JOSE ANTONIO",
+        "primer_apellido": "SANCHEZ",
+        "segundo_apellido": "PITALUA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 75,
+        "matricula": 922,
+        "nombres": "MAYRA",
+        "primer_apellido": "TOBON",
+        "segundo_apellido": "ALDAMA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 76,
+        "matricula": 946,
+        "nombres": "CONSTANTINO",
+        "primer_apellido": "TORRES",
+        "segundo_apellido": "LARA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 77,
+        "matricula": 710,
+        "nombres": "KARLA",
+        "primer_apellido": "VARGAS",
+        "segundo_apellido": "SANTOS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 78,
+        "matricula": 598,
+        "nombres": "CARLOS AUGUSTO",
+        "primer_apellido": "VAZQUEZ",
+        "segundo_apellido": "JACOBO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 79,
+        "matricula": 387,
+        "nombres": "ADRIANA YOSHIMA",
+        "primer_apellido": "VIERA",
+        "segundo_apellido": "DELFIN",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 80,
+        "matricula": 544,
+        "nombres": "ELMI AIME",
+        "primer_apellido": "VILLEGAS",
+        "segundo_apellido": "MORA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 81,
+        "matricula": 563,
+        "nombres": "CARLOS MANUEL",
+        "primer_apellido": "ZAMUDIO",
+        "segundo_apellido": "QUEVEDO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 82,
+        "matricula": 389,
+        "nombres": "JOSEPH NICOLAS",
+        "primer_apellido": "ZAPOT",
+        "segundo_apellido": "GARCIA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 83,
+        "matricula": 840,
+        "nombres": "ADRIÁN",
+        "primer_apellido": "MUSI",
+        "segundo_apellido": "ACOSTA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 84,
+        "matricula": 759,
+        "nombres": "ALBA KARINA",
+        "primer_apellido": "RUÍZ",
+        "segundo_apellido": "RODRÍGUEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 85,
+        "matricula": 8738,
+        "nombres": "FERNANDO",
+        "primer_apellido": "HERRERA",
+        "segundo_apellido": "CORTEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 86,
+        "matricula": 788,
+        "nombres": "ALEJANDRA LIZET",
+        "primer_apellido": "MORALES",
+        "segundo_apellido": "FRAGA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 87,
+        "matricula": 719,
+        "nombres": "ALMA FABIOLA",
+        "primer_apellido": "FOSADO",
+        "segundo_apellido": "GARCÍA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 88,
+        "matricula": 209,
+        "nombres": "ALONDRA KARINNA",
+        "primer_apellido": "GARCÍA",
+        "segundo_apellido": "ALBA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 89,
+        "matricula": 209,
+        "nombres": "ANA EUNICE",
+        "primer_apellido": "MATAMOROS",
+        "segundo_apellido": "GARZA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 90,
+        "matricula": 578,
+        "nombres": "ANA KAREN",
+        "primer_apellido": "MENDOZA",
+        "segundo_apellido": "REYNA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 91,
+        "matricula": 548,
+        "nombres": "ANA KAREN",
+        "primer_apellido": "SÁNCHEZ",
+        "segundo_apellido": "OJEDA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 92,
+        "matricula": 604,
+        "nombres": "ANA LAURA",
+        "primer_apellido": "ALATORRE",
+        "segundo_apellido": "TELLEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 93,
+        "matricula": 8739,
+        "nombres": "DAVID",
+        "primer_apellido": "MIRON",
+        "segundo_apellido": "HERNANDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 94,
+        "matricula": 8740,
+        "nombres": "CECILIA",
+        "primer_apellido": "RIOS",
+        "segundo_apellido": "MIRON",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 95,
+        "matricula": 129,
+        "nombres": "ANDREA ISABEL",
+        "primer_apellido": "LEDEZMA",
+        "segundo_apellido": "MUÑOZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 96,
+        "matricula": 775,
+        "nombres": "ÁNGEL ADRIÁN",
+        "primer_apellido": "RODRÍGUEZ",
+        "segundo_apellido": "SEGURA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 97,
+        "matricula": 604,
+        "nombres": "ARVI PAULINA",
+        "primer_apellido": "CASTRO",
+        "segundo_apellido": "FAZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 98,
+        "matricula": 113,
+        "nombres": "CARLOS EDUARDO",
+        "primer_apellido": "GONZÁLEZ",
+        "segundo_apellido": "RIVERA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 99,
+        "matricula": 393,
+        "nombres": "CLAUDIA ELENA",
+        "primer_apellido": "RODRÍGUEZ",
+        "segundo_apellido": "HERMOSILLO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 100,
+        "matricula": 835,
+        "nombres": "DANIA JAQUELINE",
+        "primer_apellido": "ALONSO",
+        "segundo_apellido": "ALFARO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 101,
+        "matricula": 160,
+        "nombres": "DANIELA CASANDRA",
+        "primer_apellido": "RUÍZ",
+        "segundo_apellido": "LOREDO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 102,
+        "matricula": 271,
+        "nombres": "DANIELA",
+        "primer_apellido": "CAUICH",
+        "segundo_apellido": "MANDUJANO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 103,
+        "matricula": 576,
+        "nombres": "DAVID EUSEBIO",
+        "primer_apellido": "ESCOBAR",
+        "segundo_apellido": "GÓMEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 104,
+        "matricula": 284,
+        "nombres": "DIANA BERENICE",
+        "primer_apellido": "RANGEL",
+        "segundo_apellido": "VEGA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 105,
+        "matricula": 294,
+        "nombres": "DIANA GABRIELA",
+        "primer_apellido": "LICÓN",
+        "segundo_apellido": "LÓPEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 106,
+        "matricula": 706,
+        "nombres": "DIANA LUCERO",
+        "primer_apellido": "DIMAS",
+        "segundo_apellido": "FRANCO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 107,
+        "matricula": 661,
+        "nombres": "DIEGO DAVID",
+        "primer_apellido": "TOVAR",
+        "segundo_apellido": "LARA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 108,
+        "matricula": 952,
+        "nombres": "DULCE ALEJANDRA",
+        "primer_apellido": "TELLO",
+        "segundo_apellido": "FLORES",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 109,
+        "matricula": 700,
+        "nombres": "EDSON",
+        "primer_apellido": "GALLARDO",
+        "segundo_apellido": "BARBOSA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 110,
+        "matricula": 268,
+        "nombres": "EMMITH",
+        "primer_apellido": "ZAVALA",
+        "segundo_apellido": "SÁNCHEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 111,
+        "matricula": 699,
+        "nombres": "ERCILIA",
+        "primer_apellido": "ZAMORA",
+        "segundo_apellido": "DUQUE",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 112,
+        "matricula": 302,
+        "nombres": "ERICK ARMANDO",
+        "primer_apellido": "TORRES",
+        "segundo_apellido": "HERNÁNDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 113,
+        "matricula": 422,
+        "nombres": "FABIOLA",
+        "primer_apellido": "MÁRQUEZ",
+        "segundo_apellido": "MÁRQUEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 114,
+        "matricula": 101,
+        "nombres": "FERNANDA ABUD",
+        "primer_apellido": "DEL",
+        "segundo_apellido": "RÍO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 115,
+        "matricula": 558,
+        "nombres": "GEMA CARINA",
+        "primer_apellido": "MORENO",
+        "segundo_apellido": "HERNÁNDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 116,
+        "matricula": 301,
+        "nombres": "GEMA ESPERANZA",
+        "primer_apellido": "ESCALANTE",
+        "segundo_apellido": "GONZÁLEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 117,
+        "matricula": 311,
+        "nombres": "GLORIA LUISA",
+        "primer_apellido": "MÉNDEZ",
+        "segundo_apellido": "ANGUIANO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 118,
+        "matricula": 560,
+        "nombres": "GRISELDA",
+        "primer_apellido": "ESPINOSA",
+        "segundo_apellido": "CERDA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 119,
+        "matricula": 162,
+        "nombres": "IVONNE YETLANETZI",
+        "primer_apellido": "SÁNCHEZ",
+        "segundo_apellido": "REYES",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 120,
+        "matricula": 962,
+        "nombres": "JAZMÍN ALEJANDRA",
+        "primer_apellido": "CHÁVEZ",
+        "segundo_apellido": "SEGURA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 121,
+        "matricula": 475,
+        "nombres": "JESSICA",
+        "primer_apellido": "MONTELONGO",
+        "segundo_apellido": "NOYOLA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 122,
+        "matricula": 521,
+        "nombres": "JORGE ALBERTO",
+        "primer_apellido": "MEDINA",
+        "segundo_apellido": "GARCÍA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 123,
+        "matricula": 140,
+        "nombres": "JOSÉ CARLOS",
+        "primer_apellido": "HERNÁNDEZ",
+        "segundo_apellido": "HERNÁNDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 124,
+        "matricula": 748,
+        "nombres": "JOSÉ LUIS",
+        "primer_apellido": "MENDOZA",
+        "segundo_apellido": "RUÍZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 125,
+        "matricula": 124,
+        "nombres": "JOSÉ OCTAVIO",
+        "primer_apellido": "MEDINA",
+        "segundo_apellido": "BERRONES",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 126,
+        "matricula": 935,
+        "nombres": "JUANA CONCEPCIÓN",
+        "primer_apellido": "VALERO",
+        "segundo_apellido": "ESPINOSA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 127,
+        "matricula": 983,
+        "nombres": "KAREN GUADALUPE",
+        "primer_apellido": "JASSO",
+        "segundo_apellido": "BRAVO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 128,
+        "matricula": 255,
+        "nombres": "KARLA ADRIANA",
+        "primer_apellido": "RODRÍGUEZ",
+        "segundo_apellido": "COBIAN",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 129,
+        "matricula": 817,
+        "nombres": "LEOPOLDO",
+        "primer_apellido": "MULLER",
+        "segundo_apellido": "MOCTEZUMA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 130,
+        "matricula": 979,
+        "nombres": "LESLIE SARAI",
+        "primer_apellido": "FRIAS",
+        "segundo_apellido": "AVELAR",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 131,
+        "matricula": 856,
+        "nombres": "LESLIE",
+        "primer_apellido": "VIRAMONTES",
+        "segundo_apellido": "GRANDE",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 132,
+        "matricula": 906,
+        "nombres": "LILIANA",
+        "primer_apellido": "BLAS",
+        "segundo_apellido": "SALAZAR",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 133,
+        "matricula": 851,
+        "nombres": "LISSET VIRIDIANA",
+        "primer_apellido": "RAMÍREZ",
+        "segundo_apellido": "GARCÍA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 134,
+        "matricula": 861,
+        "nombres": "LOUGUI ERNESTO",
+        "primer_apellido": "HERNÁNDEZ",
+        "segundo_apellido": "LÓPEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 135,
+        "matricula": 407,
+        "nombres": "LUIS FERNANDO",
+        "primer_apellido": "GONZÁLEZ",
+        "segundo_apellido": "HERNÁNDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 136,
+        "matricula": 669,
+        "nombres": "MARIA",
+        "primer_apellido": "BRAMBILA",
+        "segundo_apellido": "JIMÉNEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 137,
+        "matricula": 771,
+        "nombres": "\nMARÍA",
+        "primer_apellido": "BRAVO",
+        "segundo_apellido": "RODRÍGUEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 138,
+        "matricula": 384,
+        "nombres": "MARÍA CELESTE",
+        "primer_apellido": "HUERTA",
+        "segundo_apellido": "ALONSO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 139,
+        "matricula": 542,
+        "nombres": "MARÍA CONSUELO",
+        "primer_apellido": "VÁZQUEZ",
+        "segundo_apellido": "GASPAR",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 140,
+        "matricula": 665,
+        "nombres": "MARÍA DEL",
+        "primer_apellido": "CARMEN",
+        "segundo_apellido": "RAMOS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 141,
+        "matricula": 338,
+        "nombres": "MARÍA DOLORES",
+        "primer_apellido": "BRIONES",
+        "segundo_apellido": "MIRANDA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 142,
+        "matricula": 196,
+        "nombres": "MARÍA FERNANDA",
+        "primer_apellido": "ANAYA",
+        "segundo_apellido": "RAMOS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 143,
+        "matricula": 244,
+        "nombres": "MARÍA FERNANDA",
+        "primer_apellido": "LANDAVERDE",
+        "segundo_apellido": "PÉREZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 144,
+        "matricula": 151,
+        "nombres": "MARÍA FERNANDA",
+        "primer_apellido": "RIVERA",
+        "segundo_apellido": "CAMPOS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 145,
+        "matricula": 537,
+        "nombres": "MARÍA FERNANDA",
+        "primer_apellido": "VALDÉZ",
+        "segundo_apellido": "HERNÁNDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 146,
+        "matricula": 374,
+        "nombres": "MARÍA INÉS",
+        "primer_apellido": "BARBA",
+        "segundo_apellido": "LÓPEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 147,
+        "matricula": 163,
+        "nombres": "MARÍA JOSÉ",
+        "primer_apellido": "BURGOA",
+        "segundo_apellido": "HILARIO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 148,
+        "matricula": 372,
+        "nombres": "MARIANA",
+        "primer_apellido": "DÁVILA",
+        "segundo_apellido": "PATRÓN",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 149,
+        "matricula": 940,
+        "nombres": "MARIANA",
+        "primer_apellido": "GARCÍA",
+        "segundo_apellido": "FLORES",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 150,
+        "matricula": 934,
+        "nombres": "MARIBEL",
+        "primer_apellido": "HERNÁNDEZ",
+        "segundo_apellido": "ZÚÑIGA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 151,
+        "matricula": 527,
+        "nombres": "MARLENE ALEXA",
+        "primer_apellido": "DOMÍNGUEZ",
+        "segundo_apellido": "QUIJANO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 152,
+        "matricula": 391,
+        "nombres": "MAURICIO",
+        "primer_apellido": "MERAZ",
+        "segundo_apellido": "PURATA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 153,
+        "matricula": 697,
+        "nombres": "MICHELL GIOVANA",
+        "primer_apellido": "LUNA",
+        "segundo_apellido": "GARCÍA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 154,
+        "matricula": 936,
+        "nombres": "MONTSERRAT",
+        "primer_apellido": "HERNÁNDEZ",
+        "segundo_apellido": "PÉREZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 155,
+        "matricula": 928,
+        "nombres": "NELY JAZMÍN",
+        "primer_apellido": "MORENO",
+        "segundo_apellido": "MÁRQUEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 156,
+        "matricula": 858,
+        "nombres": "OSCAR ALEJANDRO",
+        "primer_apellido": "BUSTAMANTE",
+        "segundo_apellido": "CHÁVEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 157,
+        "matricula": 500,
+        "nombres": "OSWALDO",
+        "primer_apellido": "ROSTRO",
+        "segundo_apellido": "TORRES",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 158,
+        "matricula": 8741,
+        "nombres": "ARMADO",
+        "primer_apellido": "MENDOZA",
+        "segundo_apellido": "MORA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 159,
+        "matricula": 780,
+        "nombres": "PAULINA",
+        "primer_apellido": "CÁRDENAS",
+        "segundo_apellido": "PASTRANA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 160,
+        "matricula": 129,
+        "nombres": "PAULINA",
+        "primer_apellido": "CANSECO",
+        "segundo_apellido": "SUÁREZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 161,
+        "matricula": 8742,
+        "nombres": "KARINA",
+        "primer_apellido": "CORTES",
+        "segundo_apellido": "FEMAT",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 162,
+        "matricula": 345,
+        "nombres": "RAMIRO",
+        "primer_apellido": "GUZMÁN",
+        "segundo_apellido": "ZÁRATE",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 163,
+        "matricula": 171,
+        "nombres": "ROBERTO CARLOS",
+        "primer_apellido": "COLUNGA",
+        "segundo_apellido": "MORALES",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 164,
+        "matricula": 572,
+        "nombres": "ROLANDO",
+        "primer_apellido": "REYNOSO",
+        "segundo_apellido": "MERCADO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 165,
+        "matricula": 8743,
+        "nombres": "ANDREA",
+        "primer_apellido": "MOTIZ",
+        "segundo_apellido": "MONTIEL",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 166,
+        "matricula": 930,
+        "nombres": "RUTH ZURISADAI",
+        "primer_apellido": "GONZÁLEZ",
+        "segundo_apellido": "DÍAZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 167,
+        "matricula": 131,
+        "nombres": "SALMA LIZBETH",
+        "primer_apellido": "VARGAS",
+        "segundo_apellido": "NOYOLA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 168,
+        "matricula": 311,
+        "nombres": "SAÚL",
+        "primer_apellido": "FILOTEO",
+        "segundo_apellido": "BLANCO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 169,
+        "matricula": 945,
+        "nombres": "VALERIA LIZETH",
+        "primer_apellido": "LÓPEZ",
+        "segundo_apellido": "DÍAZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 170,
+        "matricula": 438,
+        "nombres": "VALERIA",
+        "primer_apellido": "NEGRETE",
+        "segundo_apellido": "ALVARADO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 171,
+        "matricula": 463,
+        "nombres": "VALERIA NOHEMÍ",
+        "primer_apellido": "AGUNDIS",
+        "segundo_apellido": "ALMENDÁREZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 172,
+        "matricula": 743,
+        "nombres": "VÍCTOR BENEDICTO",
+        "primer_apellido": "AGUILAR",
+        "segundo_apellido": "CHARQUEÑO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 173,
+        "matricula": 848,
+        "nombres": "ABIGAÍL",
+        "primer_apellido": "MENDOZA",
+        "segundo_apellido": "REYES",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 174,
+        "matricula": 859,
+        "nombres": "ALAN YAIR",
+        "primer_apellido": "DÁVALOS",
+        "segundo_apellido": "PERALES",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 175,
+        "matricula": 431,
+        "nombres": "ANA LUCÍA",
+        "primer_apellido": "RODRÍGUEZ",
+        "segundo_apellido": "MORALES",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 176,
+        "matricula": 325,
+        "nombres": "ANA XÓCHITL",
+        "primer_apellido": "RICO",
+        "segundo_apellido": "TREJO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 177,
+        "matricula": 863,
+        "nombres": "ANDREA",
+        "primer_apellido": "CASTAÑEDA",
+        "segundo_apellido": "HERNÁNDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 178,
+        "matricula": 653,
+        "nombres": "ANDREA",
+        "primer_apellido": "FLORES",
+        "segundo_apellido": "CAMPOS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 179,
+        "matricula": 170,
+        "nombres": "ANDREA MONTSERRAT",
+        "primer_apellido": "VÁZQUEZ",
+        "segundo_apellido": "PÉREZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 180,
+        "matricula": 430,
+        "nombres": "ANDREA VIRIDIANA",
+        "primer_apellido": "RUBIO",
+        "segundo_apellido": "IBARRA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 181,
+        "matricula": 836,
+        "nombres": "ÁNGEL EDAIN",
+        "primer_apellido": "ÁLVAREZ",
+        "segundo_apellido": "HERRERA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 182,
+        "matricula": 782,
+        "nombres": "ÁNGEL IVÁN",
+        "primer_apellido": "NIÑO",
+        "segundo_apellido": "MÉNDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 183,
+        "matricula": 919,
+        "nombres": "BRAYAN ENRIQUE",
+        "primer_apellido": "TELLÉZ",
+        "segundo_apellido": "GARCÍA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 184,
+        "matricula": 218,
+        "nombres": "CARMEN ITZEL",
+        "primer_apellido": "GÓMEZ",
+        "segundo_apellido": "CEBALLOS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 185,
+        "matricula": 8744,
+        "nombres": "ANTONIO",
+        "primer_apellido": "ROJAS",
+        "segundo_apellido": "HERRERA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 186,
+        "matricula": 208,
+        "nombres": "CECILIA",
+        "primer_apellido": "RAMÍREZ",
+        "segundo_apellido": "MAGAÑA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 187,
+        "matricula": 352,
+        "nombres": "CITLALI",
+        "primer_apellido": "ROBLES",
+        "segundo_apellido": "HERRERA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 188,
+        "matricula": 576,
+        "nombres": "CLAUDIA ABRIL",
+        "primer_apellido": "SALGADO",
+        "segundo_apellido": "VÁLDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 189,
+        "matricula": 150,
+        "nombres": "CLAUDIA ALEJANDRA",
+        "primer_apellido": "VENTURA",
+        "segundo_apellido": "ZAVALA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 190,
+        "matricula": 356,
+        "nombres": "DANIEL",
+        "primer_apellido": "ARAIZA",
+        "segundo_apellido": "GONZÁLEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 191,
+        "matricula": 855,
+        "nombres": "DANIELA",
+        "primer_apellido": "DELGADO",
+        "segundo_apellido": "ALFARO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 192,
+        "matricula": 8745,
+        "nombres": "DIEGO",
+        "primer_apellido": "MARADONA",
+        "segundo_apellido": "TOVAR",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 193,
+        "matricula": 683,
+        "nombres": "DIEGO ARMANDO",
+        "primer_apellido": "TOVAR",
+        "segundo_apellido": "RENTERÍA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 194,
+        "matricula": 784,
+        "nombres": "DULCE LISSET",
+        "primer_apellido": "RAMÍREZ",
+        "segundo_apellido": "ARANDA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 195,
+        "matricula": 253,
+        "nombres": "EDGAR IVÁN",
+        "primer_apellido": "CASTAÑÓN",
+        "segundo_apellido": "GISPERT",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 196,
+        "matricula": 8746,
+        "nombres": "RAUL",
+        "primer_apellido": "SANDOVAL",
+        "segundo_apellido": "HUERTA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 197,
+        "matricula": 462,
+        "nombres": "ERIKA SARAHÍ",
+        "primer_apellido": "HERNÁNDEZ",
+        "segundo_apellido": "VÁZQUEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 198,
+        "matricula": 564,
+        "nombres": "FABIÁN OSWALDO",
+        "primer_apellido": "DÍAZ",
+        "segundo_apellido": "GARCÍA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 199,
+        "matricula": 128,
+        "nombres": "FERNANDO",
+        "primer_apellido": "AGUIRRE",
+        "segundo_apellido": "RIVERA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 200,
+        "matricula": 596,
+        "nombres": "GABRIELA",
+        "primer_apellido": "ESCOBEDO",
+        "segundo_apellido": "VILLEGAS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 201,
+        "matricula": 928,
+        "nombres": "HAYDEE ESTEFANIA",
+        "primer_apellido": "DELGADO",
+        "segundo_apellido": "BOCANEGRA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 202,
+        "matricula": 873,
+        "nombres": "IMELDA BERENICE",
+        "primer_apellido": "MEDRANO",
+        "segundo_apellido": "RODRÍGUEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 203,
+        "matricula": 474,
+        "nombres": "ISIS ALEJANDRA",
+        "primer_apellido": "MEDINA",
+        "segundo_apellido": "MEDEL",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 204,
+        "matricula": 141,
+        "nombres": "ISIS JACQUELYN",
+        "primer_apellido": "GAITÁN",
+        "segundo_apellido": "VALLEJO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 205,
+        "matricula": 165,
+        "nombres": "JANETH HAYDEE",
+        "primer_apellido": "ZAVALA",
+        "segundo_apellido": "VELÁZQUEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 206,
+        "matricula": 955,
+        "nombres": "JAQUELÍN",
+        "primer_apellido": "MORALES",
+        "segundo_apellido": "LÓPEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 207,
+        "matricula": 205,
+        "nombres": "JORGE ALBERTO",
+        "primer_apellido": "HERNÁNDEZ",
+        "segundo_apellido": "GONZÁLEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 208,
+        "matricula": 302,
+        "nombres": "JOSÉ ANTONIO",
+        "primer_apellido": "GARCÍA",
+        "segundo_apellido": "ALVARADO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 209,
+        "matricula": 641,
+        "nombres": "JOSÉ ARMANDO",
+        "primer_apellido": "LEIJA",
+        "segundo_apellido": "MACARENO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 210,
+        "matricula": 314,
+        "nombres": "JOSEPH EMMANUEL",
+        "primer_apellido": "ESCALANTE",
+        "segundo_apellido": "MORENO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 211,
+        "matricula": 943,
+        "nombres": "JOSHUA FRANCISCO",
+        "primer_apellido": "ACOSTA",
+        "segundo_apellido": "CABRERA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 212,
+        "matricula": 692,
+        "nombres": "JUAN ANTONIO",
+        "primer_apellido": "PACHECO",
+        "segundo_apellido": "LÓPEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 213,
+        "matricula": 622,
+        "nombres": "KAREN DAYANA",
+        "primer_apellido": "ROSALES",
+        "segundo_apellido": "MÉNDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 214,
+        "matricula": 599,
+        "nombres": "KAREN",
+        "primer_apellido": "MÉNDEZ",
+        "segundo_apellido": "RENDÓN",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 215,
+        "matricula": 325,
+        "nombres": "KAROL GUADALUPE",
+        "primer_apellido": "BUENDÍA",
+        "segundo_apellido": "HERNÁNDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 216,
+        "matricula": 302,
+        "nombres": "KAROL MONTSERRAT",
+        "primer_apellido": "HERNÁNDEZ",
+        "segundo_apellido": "GAITÁN",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 217,
+        "matricula": 322,
+        "nombres": "KARYME GUADALUPE",
+        "primer_apellido": "MENDOZA",
+        "segundo_apellido": "ALFARO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 218,
+        "matricula": 455,
+        "nombres": "LEYDI ISABEL",
+        "primer_apellido": "NÚÑEZ",
+        "segundo_apellido": "TORRES",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 219,
+        "matricula": 570,
+        "nombres": "LILIANA EDITH",
+        "primer_apellido": "ROLDÁN",
+        "segundo_apellido": "GARCÍA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 220,
+        "matricula": 688,
+        "nombres": "LOURDES PAULINA",
+        "primer_apellido": "DELGADILLO",
+        "segundo_apellido": "BRIANO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 221,
+        "matricula": 581,
+        "nombres": "LUIS MIGUEL",
+        "primer_apellido": "ACOSTA",
+        "segundo_apellido": "AGUIÑAGA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 222,
+        "matricula": 450,
+        "nombres": "MARÍA ALEJANDRA",
+        "primer_apellido": "CAMACHO",
+        "segundo_apellido": "URVINA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 223,
+        "matricula": 8747,
+        "nombres": "LUIS MANUEL",
+        "primer_apellido": "MOTA",
+        "segundo_apellido": "ABUNDIO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 224,
+        "matricula": 829,
+        "nombres": "MARÍA MARTHA",
+        "primer_apellido": "GARCÍA",
+        "segundo_apellido": "DAHDA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 225,
+        "matricula": 8748,
+        "nombres": "SOFIA",
+        "primer_apellido": "RODRIGUEZ",
+        "segundo_apellido": "ALVARADO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 226,
+        "matricula": 480,
+        "nombres": "MARIANA",
+        "primer_apellido": "RÍOS",
+        "segundo_apellido": "OROZCO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 227,
+        "matricula": 252,
+        "nombres": "MIGUEL ÁNGEL",
+        "primer_apellido": "HURTADO",
+        "segundo_apellido": "LÓPEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 228,
+        "matricula": 455,
+        "nombres": "MOISÉS",
+        "primer_apellido": "VILLAGÓMEZ",
+        "segundo_apellido": "GARCÍA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 229,
+        "matricula": 315,
+        "nombres": "NÉSTOR REGGIE",
+        "primer_apellido": "RUÍZ",
+        "segundo_apellido": "PÉREZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 230,
+        "matricula": 361,
+        "nombres": "OSMAR JAEL",
+        "primer_apellido": "ALONSO",
+        "segundo_apellido": "COVARRUBIAS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 231,
+        "matricula": 330,
+        "nombres": "PAOLA JANNET",
+        "primer_apellido": "JAIME",
+        "segundo_apellido": "MEDINA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 232,
+        "matricula": 218,
+        "nombres": "PAULINA GUADALUPE",
+        "primer_apellido": "ALVARADO",
+        "segundo_apellido": "BERNAL",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 233,
+        "matricula": 422,
+        "nombres": "SAMANTHA LIZETH",
+        "primer_apellido": "ROSAS",
+        "segundo_apellido": "HERNÁNDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 234,
+        "matricula": 232,
+        "nombres": "SHEILLA MARÍA",
+        "primer_apellido": "HERNÁNDEZ",
+        "segundo_apellido": "RAMÍREZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 235,
+        "matricula": 218,
+        "nombres": "STEPHANIE",
+        "primer_apellido": "IZAGUIRRE",
+        "segundo_apellido": "JIMÉNEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 236,
+        "matricula": 159,
+        "nombres": "TERESA CAROLINA",
+        "primer_apellido": "GONZÁLEZ",
+        "segundo_apellido": "CRUZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 237,
+        "matricula": 547,
+        "nombres": "VÍCTOR EDGARDO",
+        "primer_apellido": "NIETO",
+        "segundo_apellido": "PÉREZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 238,
+        "matricula": 783,
+        "nombres": "VICTOR MANUEL",
+        "primer_apellido": "LEYVA",
+        "segundo_apellido": "GARCÍA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 239,
+        "matricula": 264,
+        "nombres": "XAVIER EMMANUEL",
+        "primer_apellido": "MEDINA",
+        "segundo_apellido": "LÓPEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 240,
+        "matricula": 210,
+        "nombres": "ZAIRA LIZBETH",
+        "primer_apellido": "FLORES",
+        "segundo_apellido": "ARREDONDO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 241,
+        "matricula": 573,
+        "nombres": "ZOE ANEZI",
+        "primer_apellido": "SÁNCHEZ",
+        "segundo_apellido": "CHÁVEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 242,
+        "matricula": 318,
+        "nombres": "ALEJANDRO",
+        "primer_apellido": "CASTRO",
+        "segundo_apellido": "GONZÁLEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 243,
+        "matricula": 860,
+        "nombres": "ARANTXA",
+        "primer_apellido": "GONZÁLEZ",
+        "segundo_apellido": "GUERRERO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 244,
+        "matricula": 996,
+        "nombres": "DANIEL JONATHAN",
+        "primer_apellido": "HERNÁNDEZ",
+        "segundo_apellido": "PÉREZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 245,
+        "matricula": 646,
+        "nombres": "DENYS ELIZABETH",
+        "primer_apellido": "SÁNCHEZ",
+        "segundo_apellido": "HUERTA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 246,
+        "matricula": 591,
+        "nombres": "DEREK OMAR",
+        "primer_apellido": "BALDERAS",
+        "segundo_apellido": "FRANCO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 247,
+        "matricula": 437,
+        "nombres": "DIANA YAEL",
+        "primer_apellido": "CABRERA",
+        "segundo_apellido": "ALDAPE",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 248,
+        "matricula": 324,
+        "nombres": "EDGARDO",
+        "primer_apellido": "VICTORINO",
+        "segundo_apellido": "MARÍN",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 249,
+        "matricula": 614,
+        "nombres": "ISRAEL",
+        "primer_apellido": "ARELLANO",
+        "segundo_apellido": "GODÍNEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 250,
+        "matricula": 459,
+        "nombres": "IVÁN DANIEL",
+        "primer_apellido": "ESCOBEDO",
+        "segundo_apellido": "CERVANTES",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 251,
+        "matricula": 875,
+        "nombres": "JESSICA LIZETH",
+        "primer_apellido": "CID",
+        "segundo_apellido": "MÉNDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 252,
+        "matricula": 386,
+        "nombres": "JONATHAN ENRIQUE",
+        "primer_apellido": "MANCILLA",
+        "segundo_apellido": "CONTRERAS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 253,
+        "matricula": 539,
+        "nombres": "JORGE DAVID",
+        "primer_apellido": "CARRILLO",
+        "segundo_apellido": "ARRIAGA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 254,
+        "matricula": 782,
+        "nombres": "JORGE EDUARDO",
+        "primer_apellido": "FERNÁNDEZ",
+        "segundo_apellido": "VÁZQUEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 255,
+        "matricula": 996,
+        "nombres": "JORGE HUMBERTO",
+        "primer_apellido": "IBARRA",
+        "segundo_apellido": "VÁZQUEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 256,
+        "matricula": 963,
+        "nombres": "JOSÉ ÁNGEL",
+        "primer_apellido": "NAVARRO",
+        "segundo_apellido": "ALMENDÁREZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 257,
+        "matricula": 571,
+        "nombres": "JOSÉ FELIPE",
+        "primer_apellido": "DÁVILA",
+        "segundo_apellido": "ALFARO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 258,
+        "matricula": 574,
+        "nombres": "JOSÉ MANUEL",
+        "primer_apellido": "RAMÍREZ",
+        "segundo_apellido": "DUEÑAS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 259,
+        "matricula": 983,
+        "nombres": "JUAN ALBERTO",
+        "primer_apellido": "HERNÁNDEZ",
+        "segundo_apellido": "HERNÁNDEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 260,
+        "matricula": 258,
+        "nombres": "JUAN JOSÉ",
+        "primer_apellido": "CUEVAS",
+        "segundo_apellido": "PALENCIA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 261,
+        "matricula": 282,
+        "nombres": "LEONARDO ALFREDO",
+        "primer_apellido": "HERNÁNDEZ",
+        "segundo_apellido": "REYES",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 262,
+        "matricula": 8749,
+        "nombres": "LUNA",
+        "primer_apellido": "RODRIGUEZ",
+        "segundo_apellido": "ALFARO",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 263,
+        "matricula": 412,
+        "nombres": "OSWALDO MANUEL",
+        "primer_apellido": "JUÁREZ",
+        "segundo_apellido": "ROJAS",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 264,
+        "matricula": 556,
+        "nombres": "RAMÓN EMMANUEL",
+        "primer_apellido": "SALAZAR",
+        "segundo_apellido": "CANCHOLA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 265,
+        "matricula": 204,
+        "nombres": "SANDRA",
+        "primer_apellido": "MENDÍVIL",
+        "segundo_apellido": "ZEPEDA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 266,
+        "matricula": 404,
+        "nombres": "YARELI MARLEN",
+        "primer_apellido": "VILLALOBOS",
+        "segundo_apellido": "GARCÍA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 267,
+        "matricula": 476,
+        "nombres": "DANIEL",
+        "primer_apellido": "HERNÁNDEZ",
+        "segundo_apellido": "RODRÍGUEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 268,
+        "matricula": 931,
+        "nombres": "EMMANUEL",
+        "primer_apellido": "RODRÍGUEZ",
+        "segundo_apellido": "LÓPEZ",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 269,
+        "matricula": 8750,
+        "nombres": "ARMANDO",
+        "primer_apellido": "RANGEL",
+        "segundo_apellido": "ALATORRE",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 270,
+        "matricula": 315,
+        "nombres": "FILIBERTO",
+        "primer_apellido": "ESPINOSA",
+        "segundo_apellido": "CONSTANTE",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 271,
+        "matricula": 372,
+        "nombres": "FRANCISCO ALEJANDRO",
+        "primer_apellido": "GONZÁLEZ",
+        "segundo_apellido": "BANDA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 272,
+        "matricula": 862,
+        "nombres": "JANETH ALEJANDRA",
+        "primer_apellido": "MORALES",
+        "segundo_apellido": "DIX",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 273,
+        "matricula": 973,
+        "nombres": "JESÚS HOREB",
+        "primer_apellido": "SEGOVIA",
+        "segundo_apellido": "ROCHA",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": 274,
+        "matricula": 397,
+        "nombres": "JOSÉ ARMANDO",
+        "primer_apellido": "ALATORRE",
+        "segundo_apellido": "RANGEL",
+        "created_at": "2021-09-28T20:39:15.000Z",
+        "updated_at": null,
+        "deleted_at": null
+    }
+]
